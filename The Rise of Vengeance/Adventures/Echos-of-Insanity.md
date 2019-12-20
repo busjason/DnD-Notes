@@ -1,9 +1,9 @@
-#Echos of Insanity
-######Adventure for 4 Characters level 10
+# Echos of Insanity
+###### Adventure for 4 Characters level 10
 
 ![alt text](https://i.imgur.com/jSEEakX.jpg "The Echos of Insanity")
 
-###History
+### History
 > The Demon Lord Turaglas the Ravenous, weakened from a defeat, escaped avernus through a stray portal to a prime material plane after a failed demonic incursion. Withered, weakened, and starved the demon now little more than a wisp sought a source of power to feed his unending hunger. He could feel a surge pulsing from the frayed end of a ley-line of the weave. Turaglas' essence laid in wait for a soul to possess and feed upon. 
 > 
 > The unfortunate soul destined to carry the Demon Lord was a powerful warrior, a son of Gruumsh, An Orc warrior named Maknnok. The Orcish warrior used the power from the demon to rise in ranks to tribal chieftain and Turaglas fed upon the Orc's soul. The endless feasting of Turaglas left Maknok's soul ragged, and restless.
@@ -14,7 +14,7 @@
 >
 > In the weeks that followed Turaglas feasted only stopping to belch out demonic beasts born in his fetid bowels. The same group of adventurers came to stop his feast but he pushed them back eating one in the process. He now had full control of the arcane font and ate trying to assuage his ravenous hunger. As he ate he grew and as he grew he ate. Now his fleshy form fills the caverns...
 
-###1. The Mouth of the Abyss
+### 1. The Mouth of the Abyss
 
 ![alt text](https://i.imgur.com/7yFDGRq.jpg "The Echos of Insanity")
 > Before you in the side of the rocky cliff the familiar cleft in the rock leads you to the cavern mouth you are looking for. The first thing you notice is the warm humid air flowing out of the cavern. The smell is overwhelming. The air pungent with a sour acidity that calls to mind the taste of bile in the back of your throat, rotting meat, and curdled milk all at the same time. The light that makes it through the trees around you fails to illuminate the interior of the cave.
@@ -32,7 +32,7 @@ A poisoned character may make another attempt to save after a rest or a stated a
 
 Magic means to remove the poisoning work only if used before the second attempt. After the poisoning is only abated for a single turn.
 
-###2. Into the Bowels of Evil
+### 2. Into the Bowels of Evil
 
 > As you move into the cavern the floor is soft and saturated with moisture. You find the terrain difficult to traverse. Just a few feet in the ridges below you rumble the cavern shifts the entrance snaps shut and the walls collapse around you.
 
