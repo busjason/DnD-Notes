@@ -68,6 +68,5 @@ WIS Save **DC 10** + **2** * **Time Units** :
 
 ### Initiative
 
-Heart of Turaglas
 ![alt text](https://i.imgur.com/n0JuSn0.png "The Belly of the Beast.")
 
