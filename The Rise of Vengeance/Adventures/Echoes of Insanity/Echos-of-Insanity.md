@@ -34,7 +34,7 @@ Magic means to remove the poisoning work only if used before the second attempt.
 
 ### 2. Into the Bowels of Evil
 
-> As you move into the cavern the floor is soft and saturated with moisture. You find the terrain difficult to traverse. Just a few feet in the ridges below you rumble the cavern shifts the entrance snaps shut and the walls collapse around you.
+> As you move into the cavern the floor is soft and saturated with moisture. You find the terrain difficult to traverse. All of a sudden you hear a sound like muffled voices booming around you. It cries out in as if with a thousand mouths. Screams, moans, yelling, and speaking. Each voice adding another insane layer to the cacophony around you.  The ridges below you rumble the cavern shifts the entrance snaps shut and the walls collapse around you. 
 
 CON Save **DC 16** 
 
@@ -46,3 +46,28 @@ Medium Creatures - No effect.
 
 Large Creature - Disadvantage on the saving throw and you are vulnerable to the damage.
  
+ ### 3. The Belly of the Beast
+ ![alt text](https://i.imgur.com/lBwnvjT.jpg "The Belly of the Beast.")
+ > You struggle against the crushing weight as your mind reels under the pressure of so many voices. You feel yourself being pushed deeper into the inky blackness. All around you the world is in commotion the ridges grind against you the voices continue to wail. After a short moment that felt eternal you fall with a splash into a pool of acrid slime. The air around you is stifling your you body aches and your ears and head are pounding from the overwhelming sensations. No its not in you it is all around you the pounding like a heartbeat. You begin to itch. 
+
+With a concerted effort the party can make a hole in the stomach. The check should depend on the action.
+
+**DC 17**
+ 
+ Each attempt takes a [time unit](../../Homebrew Rules/Time Units.md). 
+
+For each time unit in the Belly
+
+CON Save **DC 12** + **2** * **Time Units** : 
+Take 2d6 acid damage cumulatively
+
+WIS Save **DC 10** + **2** * **Time Units** : 
+
+### 4. Attacking the Heart 
+> You squeeze through the hole you have cut through the creatures stomach lining the pounding of the heart and the screaming insanity in your ears grows louder. You see the viscera of some foul beast all around you. Looking up you see the its heart pounding rhythmically. Its organs shifting with each of its breaths around you. You must still the pounding heart!
+
+### Initiative
+
+Heart of Turaglas
+![alt text](https://i.imgur.com/n0JuSn0.png "The Belly of the Beast.")
+
