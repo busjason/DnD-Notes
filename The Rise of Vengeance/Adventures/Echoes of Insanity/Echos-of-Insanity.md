@@ -14,7 +14,13 @@
 >
 > In the weeks that followed Turaglas feasted only stopping to belch out demonic beasts born in his fetid bowels. The same group of adventurers came to stop his feast but he pushed them back eating one in the process. He now had full control of the arcane font and ate trying to assuage his ravenous hunger. As he ate he grew and as he grew he ate. Now his fleshy form fills the caverns...
 
-### 1. The Mouth of the Abyss
+### 1. Out of the Mouth of Horrors
+
+Demons have begun to spill out of the wave echo cave into the surrounding lands. Phandalin residents talk about the horrors in the night. The blight on their winter crops. Rabid beasts from the woods. 
+
+ 
+
+### 2. The Mouth of the Abyss
 
 ![alt text](https://i.imgur.com/7yFDGRq.jpg "The Echos of Insanity")
 > Before you in the side of the rocky cliff the familiar cleft in the rock leads you to the cavern mouth you are looking for. The first thing you notice is the warm humid air flowing out of the cavern. The smell is overwhelming. The air pungent with a sour acidity that calls to mind the taste of bile in the back of your throat, rotting meat, and curdled milk all at the same time. The light that makes it through the trees around you fails to illuminate the interior of the cave.
@@ -32,7 +38,7 @@ A poisoned character may make another attempt to save after a rest or a stated a
 
 Magic means to remove the poisoning work only if used before the second attempt. After the poisoning is only abated for a single turn.
 
-### 2. Into the Bowels of Evil
+### 3. Into the Bowels of Evil
 
 > As you move into the cavern the floor is soft and saturated with moisture. You find the terrain difficult to traverse. All of a sudden you hear a sound like muffled voices booming around you. It cries out in as if with a thousand mouths. Screams, moans, yelling, and speaking. Each voice adding another insane layer to the cacophony around you.  The ridges below you rumble the cavern shifts the entrance snaps shut and the walls collapse around you. 
 
@@ -46,7 +52,7 @@ Medium Creatures - No effect.
 
 Large Creature - Disadvantage on the saving throw and you are vulnerable to the damage.
  
- ### 3. The Belly of the Beast
+ ### 4. The Belly of the Beast
  ![alt text](https://i.imgur.com/lBwnvjT.jpg "The Belly of the Beast.")
  > You struggle against the crushing weight as your mind reels under the pressure of so many voices. You feel yourself being pushed deeper into the inky blackness. All around you the world is in commotion the ridges grind against you the voices continue to wail. After a short moment that felt eternal you fall with a splash into a pool of acrid slime. The air around you is stifling your you body aches and your ears and head are pounding from the overwhelming sensations. No its not in you it is all around you the pounding like a heartbeat. You begin to itch. 
 
@@ -63,7 +69,7 @@ Take 2d6 acid damage cumulatively
 
 WIS Save **DC 10** + **2** * **Time Units** : 
 
-### 4. Attacking the Heart 
+### 5. Attacking the Heart 
 > You squeeze through the hole you have cut through the creatures stomach lining the pounding of the heart and the screaming insanity in your ears grows louder. You see the viscera of some foul beast all around you. Looking up you see the its heart pounding rhythmically. Its organs shifting with each of its breaths around you. You must still the pounding heart!
 
 The space inside is hard to navigate. Any vertical movement is difficult terrain. Any ground movment calls for a successful Dex check **DC 15** failure by 5 or more causes the mover to slip and fall.
