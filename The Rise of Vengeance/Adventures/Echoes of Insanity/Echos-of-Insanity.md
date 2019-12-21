@@ -77,6 +77,8 @@ The space inside is hard to navigate. Any vertical movement is difficult terrain
 ---
 ### Initiative
 
+![alt text](https://i.imgur.com/CVgOTNs.jpg "Map I'm using for this.")
+
 ![alt text](https://i.imgur.com/n0JuSn0.png "The Heart of Turaglas.")
 
 ![alt text](https://i.imgur.com/RqbEJB5.png "Swarm of Demonic Defenders.")
