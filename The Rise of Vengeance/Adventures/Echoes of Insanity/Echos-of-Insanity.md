@@ -66,7 +66,11 @@ WIS Save **DC 10** + **2** * **Time Units** :
 ### 4. Attacking the Heart 
 > You squeeze through the hole you have cut through the creatures stomach lining the pounding of the heart and the screaming insanity in your ears grows louder. You see the viscera of some foul beast all around you. Looking up you see the its heart pounding rhythmically. Its organs shifting with each of its breaths around you. You must still the pounding heart!
 
+The space inside is hard to navigate. Any vertical movement is difficult terrain. Any ground movment calls for a successful Dex check **DC 15** failure by 5 or more causes the mover to slip and fall.
+
+---
 ### Initiative
 
-![alt text](https://i.imgur.com/n0JuSn0.png "The Belly of the Beast.")
+![alt text](https://i.imgur.com/n0JuSn0.png "The Heart of Turaglas.")
 
+![alt text](https://i.imgur.com/RqbEJB5.png "Swarm of Demonic Defenders.")
