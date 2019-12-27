@@ -1,6 +1,42 @@
 # Moments
 
-A moment is a time abstraction rule. It is meant to represent an undefined period of time of adventuring activity for the PC party. It is important to understand that moments not a defined period of time like a round of combat or a minute, hour, or day.
+### The Rules
+
+Moments are a time abstraction contruct with supporting rules. A Moment is meant to represent a handful of undefined periods of time of adventuring activity for the PC party contained within a defined time period. It is important to understand that moments themselves are not a defined period of time like a round of combat or a minute, hour, or day. The DM determines the scope and number of moments for a given scene. For the sake of standardization generally scenes should be split into 5 moments. The moments are represented by 6 sided dice that the party controls. When a player wants to perform an action that would take a moment to accomplish the DM would let them know that the action requires a moment and the players determine if they want to use a die. If they do each player can choose what they would like to use the moment for. The party then has a choice they can roll the moment die or discard it. If they choose to roll the moment die it is rolled and a roll of a 1 means there is a complication during the moment. Otherwise it is set aside into the recovery pool. When the players feel they need a long rest they roll the recovery pool if there are any 1s they have a complication and depending on how they respond they may or may not be interrupted during the long rest. Once they have successfully finished a long rest they recover as they would during the rest except for HP and Hit Dice. They recover 1 HD of HP (as if rolling HD for a short rest) and 1 HD for each dice in the recovery pool. At minimum if no actions are taken the party recovers 1 HD of HP and 1 HD for a long rest. 
+
+---
+
+## Examples
+
+#### Exploration / Skills
+Exploration and Skills that take some time to perform such as tracking, survival, picking a lock, performing, will consume a whole moment. 
+
+#### Short Rest
+An adventuring party can take a short rest during a moment. 
+
+#### Casting a spell
+A caster can generally cast only one ritual spell or extended spell during a moment. 
+
+To translate spell casting times to moments
+
+Casting Time | Moments
+-------------|-----------
+1 Action | -
+1 Bonus Action | -
+1 Reaction | -
+1 Min | 1
+10 Min | 1
+1 Hour | 1 
+More | 5
+
+For the purposes of healing or utility outside of combat there is not really a set limit to the number of single action/bonus action/reaction spells a character could cast in a moment. However, since some players will push this limit for the sake laying out the rules no more than 22 spells including cantrips can be cast. 
+
+#### Travel
+You could break down overland travel into moments and allow for an exploration survival adventure to be played at a larger time scale. 
+
+---
+
+## Video Script
 
 ## What is the problem it is trying to solve?
 
@@ -27,37 +63,5 @@ So at this point we've abstracted time to combat pedantry given the party a limi
 
 To combat confusion lets just say in general we use 5 consecutive moments to trigger some defined time. This just defines the rules a little bit and keeps things consistent. Let's use dice to keep track of these (It should be note I have read The Angry GM's (Scott Rehm) article Hacking Time in D&D and these thoughts expanded off of the ideas in his article.) Give the players 5 d6s this represents their pool of time resources. (Their time pool, ok!) When a player wants to do something that takes time you should say that requires you to take a moment. The party determines if they want to use the moment resource if they do then they each discuss what they want to do during the moment. The party may return the die to you the DM or optionally roll the die and if it is a 1 there is some kind of complication during the moment, then set aside the die. When all of the moments have been used. Record time if desired and refill the time pool. Now here is where the biggest change comes in and it has to do with adding threat to time. The long rest. When a party choses to take a long rest they get all the value of a long rest except they only get 1 hit die and 1 hitdie of HP for each rolled moment die. The decision to roll the moment die can only be made when it is used. this means that if a party decides to avoid complications or take a rest early they recover fewer hit dice and hp.
 
----
 
-## The Rule
-
-The rule stuff goes here.
- 
-## Actions during a moment
-
-#### Travel
-You could break down overland travel into moments and allow for an exploration survival adventure to be played at a larger time scale. 
-
-#### Exploration / Skills
-Exploration and Skills that take some time to perform such as tracking, survival, picking a lock, performing, will consume a whole moment. 
-
-#### Short Rest
-An adventuring party can take a short rest during a moment. 
-
-#### Casting a spell
-A caster can generally cast only one ritual spell or extended spell during a moment. 
-
-To translate spell casting times to moments
-
-Casting Time | Moments
--------------|-----------
-1 Action | -
-1 Bonus Action | -
-1 Reaction | -
-1 Min | 1
-10 Min | 1
-1 Hour | 2 
-More | 5
-
-For the purposes of healing or utility outside of combat there is not really a set limit to the number of single action/bonus action/reaction spells a character could cast in a moment. However, since some players will push this limit for the sake laying out the rules no more than 22 spells including cantrips can be cast. 
  
