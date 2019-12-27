@@ -1,4 +1,4 @@
-# Time Units
+# Moments
 
 A time unit is a time abstraction rule. It is an undefined period of time of activity. Time Units are longer than a combat and are not a defined period of time like a minute, hour, or day.
 
