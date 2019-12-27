@@ -4,8 +4,6 @@
 
 Moments are a time abstraction contruct with supporting rules. A Moment is meant to represent a handful of undefined periods of time of adventuring activity for the PC party contained within a defined time period. It is important to understand that moments themselves are not a defined period of time like a round of combat or a minute, hour, or day. The DM determines the scope and number of moments for a given scene. For the sake of standardization generally scenes should be split into 5 moments. The moments are represented by 6 sided dice that the party controls. When a player wants to perform an action that would take a moment to accomplish the DM would let them know that the action requires a moment and the players determine if they want to use a die. If they do each player can choose what they would like to use the moment for. The party then has a choice they can roll the moment die or discard it. If they choose to roll the moment die it is rolled and a roll of a 1 means there is a complication during the moment. Otherwise it is set aside into the recovery pool. When the players feel they need a long rest it takes a full moment pool to rest. they roll the recovery pool if there are any 1s they have a complication and depending on how they respond they may or may not be interrupted during the long rest. Once they have successfully finished a long rest they recover as they would during the rest except for HP and Hit Dice. They recover 1 HD of HP (as if rolling HD for a short rest) and 1 HD for each dice in the recovery pool. At minimum if no actions are taken the party recovers 1 HD of HP and 1 HD for a long rest. 
 
----
-
 ## Examples
 
 ### Setting moments for a scene.
