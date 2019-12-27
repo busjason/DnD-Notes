@@ -13,21 +13,25 @@ Fourth, as it is now the only threat to a D&D party is combat. Combat is the str
 
 Now I'm not saying we should be aiming for perfect realism I mean we do have dragons and dungeons after all. Our PCs should be worried about finishing the adventure so they can make it back for their day job as an accounts clerk. I'm just saying time should be more like a resource to use to make decisions within the game. So based on the problems we are trying to solve our rules should make time easier to track, reduce the reliance for concrete time intervals, give the players something to do with time, and make time more of a threat. Oh and as a bonus if we get around to it solve once and for all the the problem of the 5 min work day, or at the very least not make it worse. So where do we start?
 
+## What is a moment?
+
 We should define a moment. A moment should be a limited resource given to the party to use. The moments are limited arbitrary time blocks within a certain defined time period. The scope of the defined time period should be determined before the moments are given. For example a party is infiltrating a bandit camp while the majority of bandits are out pillaging They only have until dusk before the raiding groups return. You the DM can then give them some number of moments, lets say 5 and thats it. We don't really know or care how long the moments are they are just an abstract view of the time the players have to do what they came here to do. When they use those 5 moments the raiding groups come back to camp and the party has to deal with that. 
+
+## What can you do in a moment?
 
 Another example could be exploring an old dungeon there is no time pressure per say so we give them 5 moments between morning and mid day and and 5 between midday and night. This structures the day and gives some meaning to the time they are using. So what constitutes a moment what can players do with a moment. The first things that come to my mind are combat, resting, and spell casting. So lets just say combat is insignificant. In D&D time combat is usually resolved in seconds so we just use rounds as defined in the book and ignore combat or really any action that could be done in combat so action, bonus action, reaction abilities and spells. A short rest is 1 moment done easy. I'd say in our example of the dungeon anything that takes minutes uses up a moment. Searching a room, tracking and following a quarry, picking a lock, solving a puzzle, disarming/setting a trap, reading a book, casting a ritul or long casting time spell, etc. Something to keep in mind is each player should be able to use the moment for different tasks if they want to. That just made me think of helping if a character wants to help another to give them advantage well now this means there is one less thing the party can do during the moment options and tradeoffs. I like that.
 
 So at this point we've abstracted time to combat pedantry given the party a limited resource to use we've given the added the threat of triggered actions based on the exaustion of the moment resource, and we've made it easier to track because first I'm giving it to the players to track and I've reduced the number of things from 16 hours/960 minutes to like 2 sets of 5 moments. Done and done. However I think there is more we could do here. to ratchet up the tension, and improve the ease of tracking. 
 
+## Is there anything else?
+
 To combat confusion lets just say in general we use 5 consecutive moments to trigger some defined time. This just defines the rules a little bit and keeps things consistent. Let's use dice to keep track of these (It should be note I have read The Angry GM's (Scott Rehm) article Hacking Time in D&D and these thoughts expanded off of the ideas in his article.) Give the players 5 d6s this represents their pool of time resources. (Their time pool, ok!) When a player wants to do something that takes time you should say that requires you to take a moment. The party determines if they want to use the moment resource if they do then they each discuss what they want to do during the moment. The party may return the die to you the DM or optionally roll the die and if it is a 1 there is some kind of complication during the moment, then set aside the die. When all of the moments have been used. Record time if desired and refill the time pool. Now here is where the biggest change comes in and it has to do with adding threat to time. The long rest. When a party choses to take a long rest they get all the value of a long rest except they only get 1 hit die and 1 hitdie of HP for each rolled moment die. The decision to roll the moment die can only be made when it is used. this means that if a party decides to avoid complications or take a rest early they recover fewer hit dice and hp.
 
 ---
 
-When a party is not in combat and one of its members takes an action that will take some undetermined amount of time. The party is using a moment. The DM should track these with a 1d6. When the party reaches 5 moments without a long rest they roll the accumulated dice and if there is a 1 there is a complication.
+## The Rule
 
-When a party takes a long rest they get all the benefits of a long rest as detailed in the player's handbook except they only recover 1 Hit Die of HP and 1 Hit Die per moment they consumed.
-
-The result of the complication should be themed around the location and situation the party is in. 
+The rule stuff goes here.
  
 ## Actions during a moment
 
