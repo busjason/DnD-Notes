@@ -3,6 +3,7 @@
 ## Rule
 
 Base movement speed for all creatures is 15 feet. Standing up from prone takes 15 ft. of movement. If a creature wants to move farther than their base movement speed they roll their movement die and move 5 x the result feet. 
+
 |Movement Die|Movement Min|Movement Median|Movement Max|
 |---|---|---|---|
 |1d6|20 ft.|30 ft.|45 ft.|
